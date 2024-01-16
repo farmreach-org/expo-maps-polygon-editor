@@ -38,7 +38,8 @@
     "format": "npx prettier --write 'src/**/*.ts*'"
   },
   "peerDependencies": {
-    "react": ">=18.2",
+    "react": "*",
+    "expo": "*",
     "react-native": "*",
     "react-native-maps": "*",
     "@turf/boolean-point-in-polygon": "*",
