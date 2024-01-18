@@ -47,7 +47,7 @@
     "@turf/midpoint": "*"
   },
   "dependencies": {
-    "expo": "^49.0.0",
+    "expo": "^50.0.0",
     "react": "18.2.0",
     "react-native": "0.72.3",
     "@turf/boolean-point-in-polygon": "6.5.0",
